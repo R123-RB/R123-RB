@@ -20,10 +20,8 @@ As an aspiring data scientist with a strong passion for transforming raw data in
 
 🔭 I’m currently working on: Data Science projects, including a personal Data Science Roadmap & Study Tracker, while building practical skills through ML and AI projects.<br>🧑‍🤝‍🧑 I’m looking to collaborate on: Data Science, Machine Learning, Generative AI, and open-source projects.<br>🤝 I’m looking for help with: Turning data/ML ideas into real-world, production-ready applications and improving my skills in MLOps and cloud technologies.<br>🌱 I’m currently learning: Generative AI, Agentic AI, MLOps, NLP, Deep Learning, Cloud Data Analytics, and Data Engineering.<br>💬 Ask me about: Data Science, Python, Machine Learning, Data Analytics, NLP, Generative AI, or my journey from Statistics to Data Science.<br>⚡ Fun fact: I’m combining a Statistics background with Computer Science & Data Analytics, so I enjoy connecting statistical thinking with AI and real-world data problems.
 
----
 
-
-## 🚀 Featured Projects &nbsp; <sub>newest → oldest</sub>
+<!-- ## 🚀 Featured Projects &nbsp; <sub>newest → oldest</sub>
 
 <div align="center">
 
@@ -31,9 +29,7 @@ As an aspiring data scientist with a strong passion for transforming raw data in
 |:---:|:---|:---:|:---:|
 
 
-</div>
-
----
+</div> -->
 
 ---
 
