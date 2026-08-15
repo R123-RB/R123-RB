@@ -6,10 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=R123-RB&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Data%20Scientist-brightgreen?style=for-the-badge" alt="Focus"/>
-
 </div>
 
 <br/>
